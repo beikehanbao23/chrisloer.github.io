@@ -26046,12 +26046,6 @@
 					[13, "{display_name}"]
 				]
 			},
-			"text-field-en": {
-				"stops": [
-					[12, ""],
-					[13, "{display_name_en}"]
-				]
-			},
 			"text-size": 12,
 			"text-anchor": "top",
 			"text-offset": [0, 0.6875],
@@ -26075,7 +26069,6 @@
 		"layout": {
 			"visibility": "visible",
 			"text-field": "{display_name}",
-			"text-field-en": "{display_name_en}",
 			"symbol-placement": "line",
 			"symbol-spacing": 1000,
 			"text-size": {
@@ -27855,7 +27848,7 @@
 		"layout": {
 			"visibility": "visible",
 			"text-field": "",
-			"text-field-en": "",
+			
 			"text-size": {
 				"stops": [
 					[18, 13]
@@ -28008,12 +28001,6 @@
 				"stops": [
 					[16, ""],
 					[17, "{name}"]
-				]
-			},
-			"text-field-en": {
-				"stops": [
-					[16, ""],
-					[17, "{name_en}"]
 				]
 			},
 			"text-size": {
@@ -28578,12 +28565,6 @@
 				"stops": [
 					[16, ""],
 					[17, "{name}"]
-				]
-			},
-			"text-field-en": {
-				"stops": [
-					[16, ""],
-					[17, "{name_en}"]
 				]
 			},
 			"text-size": {
@@ -29637,7 +29618,7 @@
 		"layout": {
 			"visibility": "visible",
 			"text-field": "",
-			"text-field-en": "",
+			
 			"text-size": {
 				"stops": [
 					[17, 13]
@@ -30682,7 +30663,7 @@
 		"layout": {
 			"visibility": "visible",
 			"text-field": "",
-			"text-field-en": "",
+			
 			"text-size": {
 				"stops": [
 					[16, 13]
@@ -31744,12 +31725,6 @@
 					[17, "{name}"]
 				]
 			},
-			"text-field-en": {
-				"stops": [
-					[16, ""],
-					[17, "{name_en}"]
-				]
-			},
 			"text-size": {
 				"stops": [
 					[16, 14],
@@ -32330,12 +32305,6 @@
 				"stops": [
 					[16, ""],
 					[17, "{name}"]
-				]
-			},
-			"text-field-en": {
-				"stops": [
-					[16, ""],
-					[17, "{name_en}"]
 				]
 			},
 			"text-size": {
@@ -33568,7 +33537,7 @@
 		"layout": {
 			"visibility": "visible",
 			"text-field": "",
-			"text-field-en": "",
+			
 			"text-size": {
 				"stops": [
 					[15, 14],
@@ -33600,7 +33569,6 @@
 		"layout": {
 			"visibility": "visible",
 			"text-field": "",
-			"text-field-en": "",
 			"text-size": {
 				"stops": [
 					[15, 14],
@@ -34340,7 +34308,6 @@
 		"layout": {
 			"visibility": "visible",
 			"text-field": "",
-			"text-field-en": "",
 			"text-size": {
 				"stops": [
 					[15, 14],
@@ -34372,12 +34339,6 @@
 		"layout": {
 			"visibility": "visible",
 			"text-field": {
-				"stops": [
-					[15, ""],
-					[16, ""]
-				]
-			},
-			"text-field-en": {
 				"stops": [
 					[15, ""],
 					[16, ""]
